@@ -1,0 +1,1 @@
+-mod=mods\BulletStacksPlusPlus;mods\CF;mods\DabsFramework;mods\EarPlugs;mods\Hitmarker;mods\LootBarrelTransfer;mods\MiniMap;mods\SkyZ-SkyboxOverhaul;mods\SlowerMetabolism;mods\Trader;mods\UnlimitedStamina;mods\VanillaPlusPlusMap 
